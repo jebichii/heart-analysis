@@ -1,5 +1,5 @@
 # **Heart Disease Prediction using Machine Learning**
-## ## **Group Members**
+## **Group Members**
 1. Gathigi Moses Muiruri - gathimoses@gmail.com
 2. odongo lsaiah - odongoreagan19@gmail.com
 3. Keren Hapuch Ntinyari - karenhapuch68@gmail.com
