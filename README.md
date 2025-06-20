@@ -1,5 +1,10 @@
 # **Heart Disease Prediction using Machine Learning**
-
+## ## **Group Members**
+1. Gathigi Moses Muiruri - gathimoses@gmail.com
+2. odongo lsaiah - odongoreagan19@gmail.com
+3. Keren Hapuch Ntinyari - karenhapuch68@gmail.com
+4. Jebichii  Joyce - jebichiijoyce@gmail.com
+5. Palpable Smart - palpable237@gmail.com
 ## **Project Overview**
 This project aims to **predict the likelihood of heart disease** based on patient health data. By leveraging machine learning, healthcare professionals can use this system to assist in **early diagnosis and preventive care**.
 
@@ -80,7 +85,8 @@ The dataset consists of **various patient health attributes**, including:
 - **Chest Pain Type (ASY)** is more frequent in patients diagnosed with heart disease.
 - **Exercise Angina (Y)** is often associated with heart disease.
 - **ST_Slope (Flat)** correlates with higher risk.
-
+### **Summary of the prject**
+https://colab.research.google.com/drive/1diWqE77LmvNzxkORUd5l7oiY1AnUgDoT?usp=sharing
 ### **Potential Improvements**
 - **Feature Engineering**: Creating new features like **BMI** or **Risk Score**.
 - **Advanced Models**: Exploring **Neural Networks** for deeper analysis.
