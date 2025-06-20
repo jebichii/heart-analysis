@@ -85,7 +85,7 @@ The dataset consists of **various patient health attributes**, including:
 - **Chest Pain Type (ASY)** is more frequent in patients diagnosed with heart disease.
 - **Exercise Angina (Y)** is often associated with heart disease.
 - **ST_Slope (Flat)** correlates with higher risk.
-### **Summary of the prject**
+### **Summary of the project**
 https://colab.research.google.com/drive/1diWqE77LmvNzxkORUd5l7oiY1AnUgDoT?usp=sharing
 ### **Potential Improvements**
 - **Feature Engineering**: Creating new features like **BMI** or **Risk Score**.
